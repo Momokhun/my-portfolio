@@ -1,0 +1,286 @@
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@500&display=swap');
+
+.navbar-brand {
+    font-family: 'Lobster', cursive;
+    font-size: 1.5em;
+    margin-right: 0;
+    padding-left: 10px;
+}
+
+#nav-bar li {
+    padding: 0 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*  Profile */
+.about {
+    padding: 60px 0;
+    text-align: center;
+}
+
+.profile p {
+    line-height: 1.3;
+}
+
+.occ {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.4em;
+    
+}
+
+.about h1 {
+    font-size: 3em;
+    font-family: 'Lobster', cursive;
+}
+
+.about img {
+    margin: 20px 0;
+}
+
+
+.picture img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+
+/* Skill */
+.skill {
+    font-size: 3em;
+    text-align: center;
+    padding-bottom: 20px;
+    border-bottom: solid 4px #FAFAFA;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    justify-content: center;
+}
+
+
+.sub-title {
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+.description h4 {
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+
+
+.fa-desktop {
+    font-size: 4.5em;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.web-skill {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.skill-name {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.skill-bar {
+    height: 20px;
+    background-color: #E2E2E2;
+    border-radius: 10px;
+}
+
+.skill-par {
+    height: 20px;
+    background-color: #D5EEF2;
+    border-radius: 10px;
+}
+
+.logo-php {
+    padding-left: 10px;
+}
+
+#Language {
+    border-left: solid 3px #FAFAFA;
+    box-sizing: border-box;
+}
+
+@media (max-width: 767px) {
+    #Language {
+        border-left: 0px none;
+        border-top: solid 3px #FAFAFA;
+        margin-top: 20px;
+    }
+}
+
+.fa-comment {
+    font-size: 4.5em;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.lan-1, .lan-2 {
+    padding-left: 3em;
+}
+
+.lan-2 {
+    margin-top: 30px;
+}
+
+.english {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.korean {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+
+/* Works */
+.works {
+    font-size: 3em;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    border-bottom: solid 4px #FAFAFA;
+    margin-top: 40px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.items {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.item {
+    cursor: pointer;
+    margin-right: 20px;
+    margin-bottom: 30px;
+}
+
+.workImg {
+    position: relative;
+	width: 300px;
+	height: 200px;
+    transition-duration: 0.4s;
+    border-radius: 5px;
+}
+
+.workImg img {
+    border: solid 2px #666;
+    border-radius: 5px;
+}
+
+.workImg:before {
+	position: absolute;
+	width: 300px;
+    height: 200px;
+    background-color:rgba(255,255,255,0.5);
+	transition-duration: 0.4s;
+	opacity: 0;  
+	display: flex; 
+	justify-content: center; 
+	align-items: center; 
+	color: #212529;
+    font-size: 22px;
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+.todolist:before {
+    content: "ToDoリスト[Laravel]";
+}
+
+.flower:before {
+    content: "LP模写";
+}
+
+.workImg:hover:before {
+	opacity: 1;
+}
+
+.item a {
+    color: black;
+    text-decoration: none; 
+}
+
+.btn-light {
+    display: block;
+    padding: 0.3rem 1rem;
+    border: 0;
+    margin-top: 0.3rem;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+
+/* Contact */
+.contanct {
+    font-size: 3em;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-top: solid 4px #FAFAFA;
+    font-family: 'Roboto', sans-serif;
+}
+
+.col-form-label {
+    text-align: center;
+    font-size: 18px;
+}
+
+@media (max-width: 767px) {
+    .col-form-label {
+        text-align: left;
+    }
+}
+
+#form .form-group {
+    margin-bottom: 40px;
+}
+
+.mysns ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding-left: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.snsbtn i {
+    font-size: 2.5em;
+    padding-right: 1.5em;
+}
+
+
+.facebook {
+    color: #3b5998;
+}
+
+.github {
+    color: #171515;
+}
+
+.skype {
+    color: #00aff0;
+}
+
+footer {
+    padding: 10px 0;
+    background-color: #222222;
+    color: #FFFFFE;
+}
+
+
+
