@@ -125,7 +125,7 @@
     <div class="items">  
       <div class="item">
 	      <div class="workImg todolist" onclick="item1()">
-		      <img src="works/Todolist.png" width="300" height="200">
+		      <img src="works/todolist.png" width="300" height="200">
         </div>
         <a href="https://github.com/Momokhun/Mini-pro" class="btn-light">
           <i class="fab fa-github"></i>  Github
@@ -134,7 +134,7 @@
 
       <div class="item">
 	      <div class="workImg flower" onclick="item2()">
-		      <img src="works/FLOWER.png" width="300" height="200">
+		      <img src="works/flower.png" width="300" height="200">
         </div>
         <a href="https://github.com/Momokhun/flower" class="btn-light">
           <i class="fab fa-github"></i>  Github
@@ -143,7 +143,7 @@
 
       <div class="item">
 	      <div class="workImg">
-		      <img src="works/FLOWER.png" width="300" height="200">
+		      <img src="Profile2/works/flower.png" width="300" height="200">
         </div>
         <a href="#" class="btn-light">
           <i class="fab fa-github"></i>  Github
