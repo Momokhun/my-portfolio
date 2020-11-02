@@ -142,7 +142,7 @@
       </div>
 
       <div class="item">
-	      <div class="workImg">
+	      <div class="workImg " onclick="">
 		      <img src="Profile2/works/flower.png" width="300" height="200">
         </div>
         <a href="#" class="btn-light">
