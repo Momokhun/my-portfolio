@@ -142,7 +142,7 @@
       </div>
 
       <div class="item">
-	      <div class="workImg " onclick="item3()">
+	      <div class="workImg aus" onclick="item3()">
 		      <img src="works/aus.png" width="300" height="200">
         </div>
         <a href="https://github.com/Momokhun/australia" class="btn-light">

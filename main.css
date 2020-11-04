@@ -204,6 +204,10 @@
     content: "LP模写";
 }
 
+.aus:before {
+    content: "架空観光促進LP";
+}
+
 .workImg:hover:before {
 	opacity: 1;
 }

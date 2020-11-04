@@ -24,7 +24,7 @@ function item2() {
   window.open('http://flower-lp-624.herokuapp.com/.', '_blank');
 } 
 
-function item2() {
+function item３() {
   window.open('http://australia-34.herokuapp.com/.', '_blank');
 } 
 
