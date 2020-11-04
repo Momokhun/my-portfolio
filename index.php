@@ -142,10 +142,10 @@
       </div>
 
       <div class="item">
-	      <div class="workImg " onclick="">
-		      <img src="Profile2/works/flower.png" width="300" height="200">
+	      <div class="workImg " onclick="item3()">
+		      <img src="works/aus.png" width="300" height="200">
         </div>
-        <a href="#" class="btn-light">
+        <a href="https://github.com/Momokhun/australia" class="btn-light">
           <i class="fab fa-github"></i>  Github
         </a>
       </div>
