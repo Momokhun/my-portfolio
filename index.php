@@ -25,17 +25,17 @@
         
         <div class="collapse navbar-collapse justify-content-center" id="nav-bar">
           <ul class="navbar-nav">
-            <li class="nav-item"><a href="#1" class="nav-link">Profile</a></li>
-            <li class="nav-item"><a href="#2" class="nav-link">Skill</a></li>
-            <li class="nav-item"><a href="#3" class="nav-link">Works</a></li>
-            <li class="nav-item"><a href="#4" class="nav-link">Contact</a></li>
+            <li class="nav-item"><a href="#about" class="nav-link">Profile</a></li>
+            <li class="nav-item"><a href="#skill" class="nav-link">Skill</a></li>
+            <li class="nav-item"><a href="#works" class="nav-link">Works</a></li>
+            <li class="nav-item"><a href="#contact" class="nav-link">Contact</a></li>
           </ul>
         </div>
       </nav>
     </header>
     
     <!--Profile-->
-    <div class="about" id="1">
+    <div class="about" id="about">
       <p class="occ">Web Developer</p>
       <h1>Momoka Aoyama</h1>
       <div class="picture">
@@ -50,7 +50,7 @@
     
     
     <!--Skills-->
-    <h2 class="skill" id="2">SKILL</h2>
+    <h2 class="skill" id="skill">SKILL</h2>
     <div class="container">
       <div class="row">
         <div id="Web" class="col-md-6">
@@ -121,7 +121,7 @@
     
     
     <!--Works-->
-    <h2 class="works" id="3">WORKS</h2>
+    <h2 class="works" id="works">WORKS</h2>
     <div class="items">  
       <div class="item">
 	      <div class="workImg todolist" onclick="item1()">
@@ -155,7 +155,7 @@
     
     
     <!--Contact-->
-    <h2 class="contanct" id="4">CONTACT</h2>
+    <h2 class="contanct" id="contact">CONTACT</h2>
     
     
     <form id="form" method="post" action="send.php">
