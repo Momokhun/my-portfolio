@@ -49,7 +49,7 @@
 .skill {
     font-size: 3em;
     text-align: center;
-    padding-bottom: 20px;
+    padding-top: 60px 0;
     border-bottom: solid 4px #FAFAFA;
     font-family: 'Roboto', sans-serif;
 }
@@ -147,8 +147,7 @@
 .works {
     font-size: 3em;
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 20px;
+    padding-top: 60px 0;
     border-bottom: solid 4px #FAFAFA;
     margin-top: 40px;
     font-family: 'Roboto', sans-serif;

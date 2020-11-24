@@ -43,8 +43,8 @@
       </div>
       <div class="profile">
         <p>1997.3.4</p>
-        <p>23歳、都内在住、エンジニア志望で就職活動をしています。</p>
-        <p></p>
+        <p>23歳、都内在住、エンジニア志望で就職活動中</p>
+        <p>趣味：映画鑑賞、カメラ、料理</p>
       </div>
     </div>
     
@@ -108,12 +108,12 @@
               <img src="https://img.icons8.com/color/30/000000/australia-circular.png"/>
               <img src="https://img.icons8.com/color/30/000000/philippines-circular.png"/>
             </div>
-            <p>大学在学中に休学し、フィリピンのバギオに3ヵ月、オーストラリアのシドニーにて9ヵ月の語学留学を経験しました。</br>日常会話レベルの英会話が可能。TOEIC 710点(2019)。</p>
+            <p>大学在学中に休学し、フィリピンのバギオに3ヵ月、オーストラリアのシドニーにて9ヵ月の語学留学を経験。</br>日常会話レベルの英会話が可能。TOEIC 710点(2019)。</p>
           </div>
           
           <div class="lan-2">
             <div class="korean">Korean  <img src="https://img.icons8.com/color/30/000000/south-korea-circular.png"/></div>
-            <p>高校時代にK-POPを好きになり勉強を始め、大学では第二外国語として学習していました。</br>ハングル能力検定試験4級合格(2018)。</p>
+            <p>高校時代にK-POPにハマり勉強を開始、大学では第二外国語として学習。</br>ハングル能力検定試験4級合格(2018)。</p>
           </div>
         </div>
       </div>
@@ -125,27 +125,25 @@
     <div class="items">  
       <div class="item">
 	      <div class="workImg todolist" onclick="item1()">
-		      <img src="works/todolist.png" width="300" height="200">
+		      <img src="works/todolist.png" width="300" height="200" alt="todolist">
         </div>
         <a href="https://github.com/Momokhun/Mini-pro" class="btn-light">
           <i class="fab fa-github"></i>  Github
         </a>
       </div>
-
       <div class="item">
-	      <div class="workImg flower" onclick="item2()">
-		      <img src="works/flower.png" width="300" height="200">
+	      <div class="workImg aus" onclick="item2()">
+		      <img src="works/aus.png" width="300" height="200" alt="aus">
         </div>
-        <a href="https://github.com/Momokhun/flower" class="btn-light">
+        <a href="https://github.com/Momokhun/australia" class="btn-light">
           <i class="fab fa-github"></i>  Github
         </a>
       </div>
-
       <div class="item">
-	      <div class="workImg aus" onclick="item3()">
-		      <img src="works/aus.png" width="300" height="200">
+	      <div class="workImg flower" onclick="item3()">
+		      <img src="works/flower.png" width="300" height="200" alt="flower">
         </div>
-        <a href="https://github.com/Momokhun/australia" class="btn-light">
+        <a href="https://github.com/Momokhun/flower" class="btn-light">
           <i class="fab fa-github"></i>  Github
         </a>
       </div>
@@ -184,8 +182,7 @@
     <div class="mysns">
       <ul class="contact-me">
         <li><a href="https://www.facebook.com/profile.php?id=100015844651424" class="snsbtn facebook"><i class="fab fa-facebook"></i></a></li>
-        <li><a href="" class="snsbtn github"><i class="fab fa-github"></i></a></li>
-        <li><a href="" class="snsbtn skype"><i class="fab fa-skype"></i></a></li>
+        <li><a href="https://github.com/Momokhun" class="snsbtn github"><i class="fab fa-github"></i></a></li>
       </ul>
     </div>
     
