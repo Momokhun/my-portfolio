@@ -44,7 +44,7 @@
       <div class="profile">
         <p>1997.3.4</p>
         <p>23歳、都内在住、エンジニア志望で就職活動中</p>
-        <p>趣味：映画鑑賞、カメラ、料理</p>
+        <p>TechAcademyにてフロントエンドコースとPHP/Laravelコースを3ヶ月受講</p>
       </div>
     </div>
     
